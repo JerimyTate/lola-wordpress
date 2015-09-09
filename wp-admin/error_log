@@ -1,0 +1,3 @@
+[08-Sep-2015 15:26:16 UTC] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_usermeta ADD KEY meta_key (meta_key(191)) made by wp_upgrade, make_db_current_silent, dbDelta
+[08-Sep-2015 15:26:16 UTC] WordPress database error Duplicate key name 'domain' for query ALTER TABLE wp_site ADD KEY domain (domain(140),path(51)) made by wp_upgrade, make_db_current_silent, dbDelta
+[08-Sep-2015 15:26:16 UTC] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_sitemeta ADD KEY meta_key (meta_key(191)) made by wp_upgrade, make_db_current_silent, dbDelta
